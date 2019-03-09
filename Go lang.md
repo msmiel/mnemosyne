@@ -12,6 +12,8 @@
 - [ArdenLabs: Ultimate Go](https://github.com/ardanlabs/gotraining/tree/master/topics/go)
 - [Exercism: Go Kata](https://exercism.io/tracks/go)
 - [Bit Hacking with Go](https://medium.com/learning-the-go-programming-language/bit-hacking-with-go-e0acee258827)
+- [CERN An Intro to Go](https://speakerdeck.com/campoy/an-introduction-to-go-cern?slide=29)
+- [Idiomatic Go Resources](https://medium.com/@dgryski/idiomatic-go-resources-966535376dba)
 
 ## Communities
 
