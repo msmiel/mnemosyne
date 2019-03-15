@@ -1,4 +1,4 @@
-# Design Principles
+# Principles
 
 
 ## SOLID
@@ -12,3 +12,4 @@ First defined by Robert C. Martin in 2000.
 
 ## Resources
 - [Guidelines for Writing Readable Code](https://alemil.com/guidelines-for-writing-readable-code)
+- [Making it Right: Technical Debt vs Slop](https://naildrivin5.com/blog/2012/10/05/making-it-right-technical-debt-vs-slop.html)
