@@ -23,6 +23,8 @@
 - [Build the 'Right' Regression Testing Suite Using Behavior Driven Testing : Thoughtworks](https://www.thoughtworks.com/insights/blog/build-right-regression-suite-using-behavior-driven-testing-bdt)
 - [Which Test Cases Should I Automate : DevelopSense](http://www.developsense.com/blog/2018/06/which-test-cases-should-i-automate/)
 - [Depth of Test](http://fabiopereira.me/blog/2012/03/18/introducing-depth-of-test-dot/)
+- [Service Virtualization On The Cheap](https://speakerdeck.com/emanuil/service-virtualization-on-the-cheap-agile-testing-days-2016)
+- [Need for Speed (related to Service Virtualization On The Cheap)](https://speakerdeck.com/emanuil/need-for-speed-velocityconf-amsterdam-2016)
 
 ### Patterns
 
