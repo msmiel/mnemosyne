@@ -20,27 +20,9 @@ Please do NOT put anything into your dotfiles without knowing what it does and h
 - [Getting Started with Dotfiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789) 
 - [The best way to store your dotfiles](https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/) 
 
-## Brew Commands
+## Brew Stuff
 
 The manpage for Brew is [here](https://docs.brew.sh/Manpage). 
-
-*Commands* 
-- brew install [package] 
-- brew upgrade [package]: upgrades either brew or a specific package 
-- brew switch [package] [version]: switches to a specific package version 
-- brew list --versions [package]: See what versions of that package installed 
-
-*Package Commands* 
-- brew cleanup [package]: remove old versions 
-- brew cat [package]: print this formula 
-- brew home [package]: opens that package's homepage 
-
-*Global Commands* 
-- brew update: bumps minor versions 
-- brew list: lists all packages installed 
-- brew outdated: checks all of your packages to see if any are out of date 
-- brew doctor: use to check if brew is acting strangely 
-- brew prune: prunes broken links 
 
 ## etc/passwd Output
 
