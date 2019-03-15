@@ -2,53 +2,32 @@
 
     - Ryan Tomayko, GitHub
 
-## Framework Principles
-
-### User Strategies
-
-These aren't mutually exclusive. They each have particular use cases and should be used in tandem.
-
-#### Stub Requests
-
-- Fast, Easy, Flexible.
-- No server/DB
-- Not truly E2E
-- Requires Fixtures.
-
-#### Static user
-
-- Real E2E
-- Requires Server
-- Needs DB to be seeded
-- Potentially shares test state
-
-#### Dynamic user
-
-- No State mutation
-- Flexible/Powerful
-- Requires DB Setup/Teardown
-- Can be slow/complex
-
 ## Technical Writing
 
 - [Documenting APIs : I'd Rather Be Writing](http://idratherbewriting.com/learnapidoc/)
 
 ## Testing/Continuous Delivery
-
-### Philosophy
-
+- [Eradicating Non-Determinism in Tests](https://martinfowler.com/articles/nonDeterminism.html)
+- [Testing Strategies in a Microservice Architecture](https://martinfowler.com/articles/microservice-testing/)
+- [Google Tech Talk: Predicting and Preventing Flakes (video)](https://www.youtube.com/watch?v=CrzpkF1-VsA&feature=youtu.be&list=PLSIUOFhnxEiAeGHYoBZCvEMY5wCOIpyOM)
+- [Hermetic Servers](https://testing.googleblog.com/2012/10/hermetic-servers.html)
+- [An Empirical Analysis of Flaky Tests (article)](https://www.semanticscholar.org/paper/An-empirical-analysis-of-flaky-tests-Luo-Hariri/02da46889ee3c6bc44bfa0fc45071195781b99ce)
+- [Where do our flaky tests come from?](https://testing.googleblog.com/2017/04/where-do-our-flaky-tests-come-from.html#gpluscomments)
+- [Test Double (definitions)](https://martinfowler.com/bliki/TestDouble.html)
+- [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
+- [Contract Test](https://martinfowler.com/bliki/ContractTest.html)
 - [What Makes a Good End-to-End Test : Google Testing on the Toilet](https://testing.googleblog.com/2016/09/testing-on-toilet-what-makes-good-end.html)
 - [No More Flakey Tests on the Go Team : Thoughtworks](https://www.thoughtworks.com/insights/blog/no-more-flaky-tests-go-team)
 - [The Practical Test Pyramid : Thoughtworks](https://martinfowler.com/articles/practical-test-pyramid.html)
-- Separate framework from the tests themselves as much as possible.[^1]
-- Make your framework as portable as possible
 - [Move Fast & Don't Break Things : Slides](https://docs.google.com/presentation/d/15gNk21rjer3xo-b1ZqyQVGebOp_aPvHU3YH7YnOMxtE/edit#slide=id.g437663ce1_53_391)
 - [Build the 'Right' Regression Testing Suite Using Behavior Driven Testing : Thoughtworks](https://www.thoughtworks.com/insights/blog/build-right-regression-suite-using-behavior-driven-testing-bdt)
 - [Which Test Cases Should I Automate : DevelopSense](http://www.developsense.com/blog/2018/06/which-test-cases-should-i-automate/)
+- [Depth of Test](http://fabiopereira.me/blog/2012/03/18/introducing-depth-of-test-dot/)
 
 ### Patterns
 
 - [Page Objects Refactored : Towards the Screenplay Pattern](https://dzone.com/articles/page-objects-refactored-solid-steps-to-the-screenp)
+- 
 
 ### Web
 
@@ -92,9 +71,3 @@ If this is a change that has been split into multiple PRs, please link to the ot
 
 - [ ] Something out of scope but would be cool to add?
 - [ ] Maybe clean up tech debt?
-
----
-
-[^1]:
-
-  Selected from a Blazemeter article [here.](https://www.blazemeter.com/blog/top-15-ui-test-automation-best-practices-you-should-follow)
