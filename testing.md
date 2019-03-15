@@ -1,6 +1,5 @@
-> “We can make good tests run fast, but we can’t make fast tests be good.”
-
-    - Ryan Tomayko, GitHub
+> “We can make good tests run fast, but we can’t make fast tests be good.”  
+>   Ryan Tomayko, GitHub
 
 ## Technical Writing
 
