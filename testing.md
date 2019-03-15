@@ -28,7 +28,6 @@
 ### Patterns
 
 - [Page Objects Refactored : Towards the Screenplay Pattern](https://dzone.com/articles/page-objects-refactored-solid-steps-to-the-screenp)
-- 
 
 ### Web
 
@@ -39,6 +38,9 @@
 ### Tips & Tricks
 
 - [List of Cool Chrome Devtools and Tricks](https://flaviocopes.com/chrome-devtools-tips/)
+
+### Misc
+
 
 ## Templates
 
