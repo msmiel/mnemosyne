@@ -26,13 +26,13 @@ The manpage for Brew is [here](https://docs.brew.sh/Manpage).
 
 ## etc/passwd Output
 
-username:password:UID:GID:UID info:home directory:command/shell
+username:password:UID:GID:UID info:home directory:command/shell  
 
 
-username: the user’s login name
-password: the password, will simply be an x if it’s encrypted
-user ID (UID): the user’s ID number in the system. 0 is root, 1-99 are for predefined users, and 100-999 are for other system accounts
-group ID (GID): Primary group ID, stored in /etc/group.
-user ID info: Metadata about the user; phone, email, name, etc.
-home directory: Where the user is sent upon login. Generally /home/
-command/shell: The absolute path of a command or shell (usually /bin/bash). Does not have to be a shell though!
+username: the user’s login name  
+password: the password, will simply be an x if it’s encrypted  
+user ID (UID): the user’s ID number in the system. 0 is root, 1-99 are for predefined users, and 100-999 are for other system accounts  
+group ID (GID): Primary group ID, stored in /etc/group.  
+user ID info: Metadata about the user; phone, email, name, etc.  
+home directory: Where the user is sent upon login. Generally /home/  
+command/shell: The absolute path of a command or shell (usually /bin/bash). Does not have to be a shell though!  
