@@ -21,3 +21,4 @@ Runbooks on how to triage alerts. What does the alert mean? Where to find logs, 
 - [Pager Duty: Article Library on Response](https://response.pagerduty.com/)
 - [How to Become Professional](https://hackernoon.com/the-roadmap-to-become-a-devops-dude-from-server-to-serverless-dd97420f640e)
 - [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [How to Get into SRE](https://blog.alicegoldfuss.com/how-to-get-into-sre/)
