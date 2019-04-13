@@ -6,3 +6,4 @@
 - [A JavaScript Free Frontend](https://dev.to/winduptoy/a-javascript-free-frontend-2d3e/comments)
 - [A Conservative Backend](https://dev.to/winduptoy/a-conservative-backend-4252)
 - [On Simplicity](https://mxb.dev/blog/on-simplicity/)
+- [Slow Software](https://www.inkandswitch.com/slow-software.html)
