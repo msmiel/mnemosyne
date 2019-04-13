@@ -15,6 +15,9 @@
 - [CERN An Intro to Go](https://speakerdeck.com/campoy/an-introduction-to-go-cern?slide=29)
 - [Idiomatic Go Resources](https://medium.com/@dgryski/idiomatic-go-resources-966535376dba)
 - [Go, the Unwritten Parts by JBD (archive)](https://rakyll.org)
+- [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
+- [Algorithms in Go](https://yourbasic.org)
+-
 
 ## Communities
 
@@ -31,4 +34,7 @@
 - [Rob Pike: Concurrency is not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso)
 - [Ashley McNamara's GopherCon 2018 Russia](https://www.youtube.com/watch?v=MzTcsI6tn-0)
 - [Steve Francia: 7 Common Mistakes in Go](https://www.youtube.com/watch?v=29LLRKIL_TI)
+
+## Tools
+- [JSON to Go Converter](https://mholt.github.io/json-to-go/)
 
