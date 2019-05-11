@@ -17,7 +17,6 @@
 - [Go, the Unwritten Parts by JBD (archive)](https://rakyll.org)
 - [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
 - [Algorithms in Go](https://yourbasic.org)
--
 
 ## Communities
 
@@ -28,6 +27,7 @@
 
 - [Go Advanced Testing Tips & Tricks](https://medium.com/@povilasve/go-advanced-tips-tricks-a872503ac859)
 - [Learn Go With TDD](https://github.com/quii/learn-go-with-tests)
+- [Prefer Table Driven Tests](https://dave.cheney.net/2019/05/07/prefer-table-driven-tests)
 
 ## Talks
 
