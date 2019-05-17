@@ -1,6 +1,6 @@
 # Go
 
-## Learning Resources
+## Articles
 
 - [Go Bootcamp](http://www.golangbootcamp.com/book/)
 - [Arden Labs](https://www.ardanlabs.com)
@@ -18,10 +18,11 @@
 - [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
 - [Algorithms in Go](https://yourbasic.org)
 
-## Communities
+## Communities & Newsletters
 
 - [GoBridge](https://golangbridge.org)
 - [Women Who Go](https://womenwhogo.org)
+- [The Go Gazette](http://www.go-gazette.com/): has great resources
 
 ## Testing
 
