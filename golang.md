@@ -17,6 +17,9 @@
 - [Go, the Unwritten Parts by JBD (archive)](https://rakyll.org)
 - [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
 - [Algorithms in Go](https://yourbasic.org)
+- [Go Data Structures: Interfaces](https://research.swtch.com/interfaces)
+- [Go & DevOps: A Match Made in Heaven](https://dev.to/pavanbelagatti/go-lang-devops-a-match-made-in-heaven-4dbk)
+- [How to Use Interfaces in Go](https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 
 ## Communities & Newsletters
 

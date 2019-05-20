@@ -7,3 +7,5 @@
 - [A Conservative Backend](https://dev.to/winduptoy/a-conservative-backend-4252)
 - [On Simplicity](https://mxb.dev/blog/on-simplicity/)
 - [Slow Software](https://www.inkandswitch.com/slow-software.html)
+- [12 Factor App](https://12factor.net)
+- [Everybody Helps: The Evolution of All Hands Support](https://m.signalvnoise.com/everybody-helps-the-evolution-of-all-hands-support/)
