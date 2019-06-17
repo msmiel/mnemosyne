@@ -9,3 +9,4 @@
 - [Slow Software](https://www.inkandswitch.com/slow-software.html)
 - [12 Factor App](https://12factor.net)
 - [Everybody Helps: The Evolution of All Hands Support](https://m.signalvnoise.com/everybody-helps-the-evolution-of-all-hands-support/)
+- [The Zen of Programming](https://zen-of-programming.com/cleaner-code/)
