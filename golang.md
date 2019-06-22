@@ -32,6 +32,7 @@
 ### Style & Such
 - [Idiomatic Go Resources](https://medium.com/@dgryski/idiomatic-go-resources-966535376dba)
 - [Go Project Layout](https://github.com/golang-standards/project-layout)
+- [Clean Go Code](https://github.com/Pungyeon/clean-go-article?utm_campaign=The%20Go%20Gazette)
 
 ### Algorithms & Data Structures
 - [Algorithms in Go](https://yourbasic.org)
@@ -47,8 +48,10 @@
 - [Go Advanced Testing Tips & Tricks](https://medium.com/@povilasve/go-advanced-tips-tricks-a872503ac859)
 - [Learn Go With TDD](https://github.com/quii/learn-go-with-tests)
 - [Prefer Table Driven Tests](https://dave.cheney.net/2019/05/07/prefer-table-driven-tests)
-- [Setting up Your Go Tests as Table-Driven Subtests](https://jayson.dev/blog/2019/06/table-driven-golang-subtests/?utm_campaign=The%20Go%20Gazette&utm_medium=email&utm_source=Revue%20newsletter)
-- [The World of TEsting in Go](https://blog.cosee.biz/2019/06/06/the-world-of-testing-in-go/?utm_campaign=The%20Go%20Gazette&utm_medium=email&utm_source=Revue%20newsletter)
+- [Setting up Your Go Tests as Table-Driven Subtests](https://jayson.dev/blog/2019/06/table-driven-golang-subtests)
+- [The World of Testing in Go](https://blog.cosee.biz/2019/06/06/the-world-of-testing-in-go)
+- [Writing Practical Failure Messages](https://ieftimov.com/post/testing-in-go-writing-practical-failure-messages)
+- [Generating Sequence Diagrams from tests](https://engineering.infinityworks.com/sequence-diagrams/)
 
 ### Industry
 - [Go & DevOps: A Match Made in Heaven](https://dev.to/pavanbelagatti/go-lang-devops-a-match-made-in-heaven-4dbk)
