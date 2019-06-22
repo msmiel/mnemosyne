@@ -10,3 +10,4 @@
 - [12 Factor App](https://12factor.net)
 - [Everybody Helps: The Evolution of All Hands Support](https://m.signalvnoise.com/everybody-helps-the-evolution-of-all-hands-support/)
 - [The Zen of Programming](https://zen-of-programming.com/cleaner-code/)
+- [Better Code Reviews](https://blog.pragmaticengineer.com/good-code-reviews-better-code-reviews)
