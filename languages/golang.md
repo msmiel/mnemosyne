@@ -13,6 +13,7 @@
 
 ## Tools
 - [JSON to Go Converter](https://mholt.github.io/json-to-go/)
+- [StaticCheck](http://staticcheck.io)
 
 ## Articles
 
@@ -34,10 +35,6 @@
 - [Go Project Layout](https://github.com/golang-standards/project-layout)
 - [Clean Go Code](https://github.com/Pungyeon/clean-go-article?utm_campaign=The%20Go%20Gazette)
 
-### Algorithms & Data Structures
-- [Algorithms in Go](https://yourbasic.org)
-- [Go Data Structures: Interfaces](https://research.swtch.com/interfaces)
-
 ## Communities & Newsletters
 - [GoBridge](https://golangbridge.org)
 - [Women Who Go](https://womenwhogo.org)
@@ -55,3 +52,4 @@
 
 ### Industry
 - [Go & DevOps: A Match Made in Heaven](https://dev.to/pavanbelagatti/go-lang-devops-a-match-made-in-heaven-4dbk)
+- [Microservices in Go](https://medium.com/seek-blog/microservices-in-go-2fc1570f6800)

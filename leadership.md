@@ -10,3 +10,4 @@
 - [Efficient Software PM at its Roots](https://blog.pragmaticengineer.com/tefficient-software-project-management-at-its-roots/)
 - [Death By Powerpoint: The Slide that Killed Seven People](https://mcdreeamiemusings.com/new-blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx)
 - [A Simple Guide to Measuring Market/Product Fit](https://open.buffer.com/measure-productmarket-fit-product-feature/)
+- [Minimal Project Management](https://hiltmon.com/blog/2016/03/05/minimal-project-management/)
