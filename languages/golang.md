@@ -1,6 +1,7 @@
 # Go
 
 ## Courses & Practice
+
 - [Go Bootcamp](http://www.golangbootcamp.com/book/)
 - [Arden Labs](https://www.ardanlabs.com)
 - [Exercism: Go Kata](https://exercism.io/tracks/go)
@@ -8,17 +9,19 @@
 ## Talks
 
 - [Rob Pike: Concurrency is not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso)
-- [Ashley McNamara's GopherCon 2018 Russia](https://www.youtube.com/watch?v=MzTcsI6tn-0)
+- [Ashley McNamara: GopherCon 2018 Russia](https://www.youtube.com/watch?v=MzTcsI6tn-0)
 - [Steve Francia: 7 Common Mistakes in Go](https://www.youtube.com/watch?v=29LLRKIL_TI)
+- [Peter Bourgon: GopherCon EU 2018 Best Practices for Industiral Programming](https://www.youtube.com/watch?v=PTE4VJIdHPg)
 
 ## Tools
+
 - [JSON to Go Converter](https://mholt.github.io/json-to-go/)
 - [StaticCheck](http://staticcheck.io)
 
 ## Articles
 
-
 ### Beginner
+
 - [Resources for New Go Programmers: Dave Cheney](https://dave.cheney.net/resources-for-new-go-programmers)
 - [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
 - [Go By Example](https://gobyexample.com)
@@ -31,17 +34,20 @@
 - [Rethinking Visual Programming with Go](https://divan.dev/posts/visual_programming_go/)
 
 ### Style & Such
+
 - [Idiomatic Go Resources](https://medium.com/@dgryski/idiomatic-go-resources-966535376dba)
 - [Go Project Layout](https://github.com/golang-standards/project-layout)
 - [Clean Go Code](https://github.com/Pungyeon/clean-go-article?utm_campaign=The%20Go%20Gazette)
 
 ## Communities & Newsletters
+
 - [GoBridge](https://golangbridge.org)
 - [Women Who Go](https://womenwhogo.org)
 - [The Go Gazette](http://www.go-gazette.com/): has great resources
 
-### Testing
+## Testing
 
+- [No More Flakey Tests on the Go Team : Thoughtworks](https://www.thoughtworks.com/insights/blog/no-more-flaky-tests-go-team)
 - [Go Advanced Testing Tips & Tricks](https://medium.com/@povilasve/go-advanced-tips-tricks-a872503ac859)
 - [Learn Go With TDD](https://github.com/quii/learn-go-with-tests)
 - [Prefer Table Driven Tests](https://dave.cheney.net/2019/05/07/prefer-table-driven-tests)
@@ -50,6 +56,10 @@
 - [Writing Practical Failure Messages](https://ieftimov.com/post/testing-in-go-writing-practical-failure-messages)
 - [Generating Sequence Diagrams from tests](https://engineering.infinityworks.com/sequence-diagrams/)
 
-### Industry
+## Industry
+
 - [Go & DevOps: A Match Made in Heaven](https://dev.to/pavanbelagatti/go-lang-devops-a-match-made-in-heaven-4dbk)
 - [Microservices in Go](https://medium.com/seek-blog/microservices-in-go-2fc1570f6800)
+- [Why Should You Use Go In Interviews](https://briantliao.com/2019/04/14/why-you-should-use-golang-in-interviews/)
+- [Practical Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+- [Stop Writing Broken Go Libraries](https://0x46.net/thoughts/2018/12/29/go-libraries/)

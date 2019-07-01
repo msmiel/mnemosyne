@@ -1,14 +1,16 @@
 > “We can make good tests run fast, but we can’t make fast tests be good.”  
->   Ryan Tomayko, GitHub
+>  Ryan Tomayko, GitHub
 
-## Technical Writing
+## Blogs
 
-- [Documenting APIs : I'd Rather Be Writing](http://idratherbewriting.com/learnapidoc/)
+- [Developsense Blog](https://www.developsense.com/blog/)
+- [Martin Fowler](https://martinfowler.com)
 
 ## Testing/Continuous Delivery
-- [Eradicating Non-Determinism in Tests](https://martinfowler.com/articles/nonDeterminism.html)
-- [Testing Strategies in a Microservice Architecture](https://martinfowler.com/articles/microservice-testing/)
-- [Google Tech Talk: Predicting and Preventing Flakes (video)](https://www.youtube.com/watch?v=CrzpkF1-VsA&feature=youtu.be&list=PLSIUOFhnxEiAeGHYoBZCvEMY5wCOIpyOM)
+
+- [Fowler: The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+- [Fowler: Eradicating Non-Determinism in Tests](https://martinfowler.com/articles/nonDeterminism.html)
+- [Fowler: Testing Strategies in a Microservice Architecture](https://martinfowler.com/articles/microservice-testing/)
 - [Hermetic Servers](https://testing.googleblog.com/2012/10/hermetic-servers.html)
 - [An Empirical Analysis of Flaky Tests (article)](https://www.semanticscholar.org/paper/An-empirical-analysis-of-flaky-tests-Luo-Hariri/02da46889ee3c6bc44bfa0fc45071195781b99ce)
 - [Where do our flaky tests come from?](https://testing.googleblog.com/2017/04/where-do-our-flaky-tests-come-from.html#gpluscomments)
@@ -16,7 +18,6 @@
 - [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
 - [Contract Test](https://martinfowler.com/bliki/ContractTest.html)
 - [What Makes a Good End-to-End Test : Google Testing on the Toilet](https://testing.googleblog.com/2016/09/testing-on-toilet-what-makes-good-end.html)
-- [No More Flakey Tests on the Go Team : Thoughtworks](https://www.thoughtworks.com/insights/blog/no-more-flaky-tests-go-team)
 - [The Practical Test Pyramid : Thoughtworks](https://martinfowler.com/articles/practical-test-pyramid.html)
 - [Move Fast & Don't Break Things : Slides](https://docs.google.com/presentation/d/15gNk21rjer3xo-b1ZqyQVGebOp_aPvHU3YH7YnOMxtE/edit#slide=id.g437663ce1_53_391)
 - [Build the 'Right' Regression Testing Suite Using Behavior Driven Testing : Thoughtworks](https://www.thoughtworks.com/insights/blog/build-right-regression-suite-using-behavior-driven-testing-bdt)
@@ -39,8 +40,10 @@
 
 - [List of Cool Chrome Devtools and Tricks](https://flaviocopes.com/chrome-devtools-tips/)
 
-### Misc
+## Talks
 
+- [James Whittaker's 10 Minute Test Plan](https://www.youtube.com/watch?v=QEu3wmgTLqo)
+- [Google Tech Talk: Predicting and Preventing Flakes](https://www.youtube.com/watch?v=CrzpkF1-VsA&feature=youtu.be&list=PLSIUOFhnxEiAeGHYoBZCvEMY5wCOIpyOM)
 
 ## Templates
 
