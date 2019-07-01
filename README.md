@@ -7,7 +7,6 @@ My goal with this repo is to collect great articles or other things I'd like to 
 
 - Ethics
 - Leadership, Onboarding, and how to make tech more inclusive
-- Language specific resource
 
 ## What's up with the name?
 
