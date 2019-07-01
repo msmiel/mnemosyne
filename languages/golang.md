@@ -32,6 +32,7 @@
 - [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
 - [How to Use Interfaces in Go](https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 - [Rethinking Visual Programming with Go](https://divan.dev/posts/visual_programming_go/)
+- [Making HTTP Requests in Golang](https://medium.com/@masnun/making-http-requests-in-golang-dd123379efe7)
 
 ### Style & Such
 
