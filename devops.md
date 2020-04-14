@@ -8,6 +8,7 @@
 - [How to Get into SRE](https://blog.alicegoldfuss.com/how-to-get-into-sre/)
 - [Studying the Kubernetes Ingress System](https://www.joyfulbikeshedding.com/blog/2018-03-26-studying-the-kubernetes-ingress-system.html)
 - [Jenkins Pipeline Syntax](https://jenkins.io/doc/book/pipeline/syntax/)
+- [When Containers Become Trash Cans](https://dev.to/rionmonster/when-containers-become-trashcans-2kbb)
 
 ## Wisdom
 
