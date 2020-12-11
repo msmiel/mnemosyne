@@ -1,11 +1,12 @@
 # UNIX Resources
 
 ## Tutorials
-[Unix for the Beginning Mages](http://unixmages.com/ufbm.pdf)
+- Unix for the Beginning Mages (you may have to google for this)
 
 ## Shell Scripting
 
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash) : Extensive list of bash resources.  
+- [Command Line Interface Guidelines](https://clig.dev/)
 
 ### BASH
 
